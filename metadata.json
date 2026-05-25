@@ -1,0 +1,6 @@
+{
+  "name": "Next Gerenciador",
+  "description": "Gerenciador completo de clientes IPTV, planos, finanças, backups e notificações automáticas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
